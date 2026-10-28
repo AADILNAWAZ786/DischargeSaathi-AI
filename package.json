@@ -1,0 +1,12 @@
+{
+  "name": "dischargesaathi-ai-presentation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Source for the DischargeSaathi AI assessment presentation deck",
+  "scripts": {
+    "build:presentation": "node create_presentation.js"
+  },
+  "devDependencies": {
+    "pptxgenjs": "4.0.0"
+  }
+}
